@@ -1,0 +1,101 @@
+AdrianaMalta_F049               2 > 0 > 1
+Aislam_M001                     1 > 2 > 0 (1 tem pouco)
+Alcione_F018                    1 cluster
+Alessandra_F045                 1 tem apito, 0 ruido
+Alexandra_F010                  2 clusters: 0 > 1 (1 um pouco melhor, mas com um ruim cluster ruim só separado com 4)/ 4cl: 0>1=2>>3
+AnaVarela_F042                  0 > 1 (1 mais alto e mais apito, alguns clusters errado)
+Andrea_F003                     1 baixo com ruido quando aumenta, 1 reverb, 0 pior
+AndreiaSoares_F032              1 (um pouco de ruido)> 0 (apito baixo)
+Anesia_F040                     1 > 0, mas 1 é bem menor. 0 tem apito
+AnnaPerez_F046                  0 ~= 1 (0 mais alto, 1 mais smoth?, 0 menor)
+Aurea_F036                      1 ~= 0 (0 volume menor, mas não muito ruido quando aumenta)
+Benita_F008                     1 ~= 0 (achei um sinal do 0 diferente, mas outros iguais)
+camillaWagner_F025              2 ~= 0 > 1 (1 tem qual parecida, mas mais baixo)
+Carla_F035                      1 > 0
+CarolinaMagalhaes_F050          0 ~= 1 (1 tem um pouco mais de eco, mas é bem mais numeroso)
+CeCiliaBulcao_F021              1 ~= 0 (boa qualidade nos dois, mas bem diferentes)
+ClaudiaMoraes_F023              2~1~0, 2 um pouco mais de ruido,mas mais numeroso
+ConceicaoAbdulatif_F016         0~2>1, tem apito
+Cristiane_F007                  0==1 cluster, mas ouvi 1 do 0 mais baixo
+Custodia_F033                   0 mais baixo, mas menos apito. 1 bem mais numeroso
+DanielRibeiro_M002              2 tem apito, mas é mais numeroso
+DanielRientes_M040              1 > 0
+DenizeRamos_F039                1 ~= 2 >>> 0 (2 tem apito um pouco mais alto)
+Diego_M026                      2 > 0 >> 1, mas 2 tem pouco (1 no de 2 cls é aceitavel)
+EdsonCabral_M023                0 > 1 (mas 0 tem apito)
+EduardoDuque_M039               2 > 0 == 1, mas 2 tem muito pouco
+EduardoPereira_M016             1 > 0, mas 0 tem mais
+EduardoTardin_M022              0 > 1
+Elson_M007                      0 > 1
+Emigoncalvez_M020               0 > 1
+FabioCorrea_M032                1 > 0
+FatimaTurano_F020               0 ~ 1 ~ 2, todos com apito e 2 menor que os outros
+Flavia_F047                     0 == 1 ~ 2 > 3, 0/1 mais baixos (1 > 0 em 2 cl)
+FranciscoChagas_M034            0 > 3 > 2 > 1, poucos 0 e 3, diff entre 1 e 2 parece só vol
+FranciscoEmilio_M044            0 > 1 > 2
+Gabriela_F034                   1 > 0 ~ 2, mas pode ser 1 cluster só
+Geruza_F006                     3 ~ 1 > 2 > 0
+Gilberto_M018                   1 cluster
+Helen_F043                      0 > 1, mas 1 é mais numeroso
+Henrique_M030                   1 > 0 > 2, mas 1 tem apito
+HenriqueMafra_M046              1 cluster
+Ieda_F014                       1 cluster
+IvanMariano_M008                0 > 1, mas 0 tem bem menos
+IvoneAmitrano_F000              1 cluster
+JacksonBarbosa_M048             0 > 1 (os dois são bons, mais diferentes)
+Jailson_M003                    0 > 2 > 1
+Jair_M021                       1 cluster ( mas volumes diferentes?)
+JeanCarlos_M019                 1 > 0
+Joel_M017                       1 cluster
+Jonatas_M009                    0 > 2 > 1
+JonatasPortugal_M031            1 > 0
+JonatasRibeiro_M041             1 > 0
+JorgeHumberto_M042              0 ~ 2 > 1 (2cl: 0 > 1)
+jorge_M025                      1 cluster
+JoseIldo_M024                   0 > 2 ~ 1
+Juliana_F028                    0 > 1
+JulioFaustino_M005              0 > 2 ~ 1
+LeonaRodrigues_F022             1 cluster
+Lila_F017                       1 > 2 > 0, mas 1 tem pouco
+LuanaEsterLuna_F019             1 > 0 (0 parece maior nos fills, mas no bloco principal é ruim)
+LucasSabino9_M033               1 > 2 > 0
+LuisGustavo_M049                1 > 0
+LuizCarlos_M029                 0 > 1
+Madel_F002                      1 cluster
+Marcio_M011                     1 > 0
+MarcosBittencourt_M006          1 cluster
+MarcosImbuzeiro_M036            1 cluster
+Marcosvictor_M037               1 > 0 > 2
+Mariana_F024                    0 > 1
+MarioJr._M014                   1 cluster
+Marta_F009                      0 > 1
+Milena_F044                     2 > 0 > 1
+MyrzaWanderley_F051             0 > 1, mas 0 tem bem menos
+NA_F005                         0 > 1 > 2
+Narhua_F029                     1 cluster
+Nathalia_F037                   1 cluster
+Oswaldo_M012                    1 cluster
+Patricia_F001                   2 > 0 > 1
+Paula_F026                      3 > 1 > 2 > 0
+Paulinho_M000                   0 > 1, mas o 1 tem bem mais
+PauloCampos_M038                0 > 1
+PauloSiqueira_Papus_M015        1 > 0 > 2 (apito em todos)
+PedroHenrique_M045              1 > 0 (0 mais sinais, mais alto, ruido)
+Pedro_M028                      0 > 1 (zero menos sinais, ams bem melhor)
+PriscilaTerra_F004              2 > 1 > 0
+Rafael_M013                     0 > 1
+Regina_F013                     1 ~ 2 > 0
+RenatoPeres_M010                1 cluster
+Rodrigo_M043                    1 cluster
+Rogerio_M035                    1 cluster
+Rose_F030                       1 > 0
+Roseoliveira_F048               1 cluster
+SallesAbi-Abib_M047             0 > 2 > 1
+SandraCipriano_F015             0 > 1
+SandraRocha_F011                1 > 0 > 2
+SHEILA_F031                     0 > 1
+SilvanaFerreira_F012            1 ~ 0
+TatianaRuback_F038              1 ~ 0
+TerezaSpedo_F041                1 ~ 0
+Tulio_M027                      0 > 1 > 2
+Walace_M004                     1 cluster (ruim)

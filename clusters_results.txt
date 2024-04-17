@@ -1,0 +1,404 @@
+AdrianaMalta_F049:
+  train scores=898.19 947.44 984.50 1020.16 1054.15
+  val scores=850.32 817.64 702.57 521.67 207.74
+best k=1
+Aislam_M001:
+  train scores=897.62 959.46 990.39 1024.95 1060.51
+  val scores=852.52 852.13 746.02 436.55 -151.56
+best k=1
+Alcione_F018:
+  train scores=953.23 986.88 1013.14 1045.34 1082.11
+  val scores=917.74 891.61 804.14 614.99 235.02
+best k=1
+Alessandra_F045:
+  train scores=943.39 1006.01 1034.48 1062.97 1093.04
+  val scores=900.50 877.93 744.17 427.03 -85.92
+best k=1
+Alexandra_F010:
+  train scores=961.46 999.02 1032.99 1061.41 1090.72
+  val scores=924.91 870.23 654.43 511.06 107.23
+best k=1
+AnaVarela_F042:
+  train scores=947.36 991.61 1022.40 1056.15 1088.95
+  val scores=900.83 862.63 771.99 558.08 160.11
+best k=1
+Andrea_F003:
+  train scores=930.43 988.64 1014.42 1044.11 1076.13
+  val scores=886.13 828.17 726.30 521.19 262.87
+best k=1
+AndreiaSoares_F032:
+  train scores=1011.39 1042.12 1068.86 1093.61 1118.25
+  val scores=960.00 933.90 891.55 812.61 676.07
+best k=1
+Anesia_F040:
+  train scores=944.92 993.58 1021.23 1046.65 1078.75
+  val scores=905.37 746.67 622.34 454.69 69.12
+best k=1
+AnnaPerez_F046:
+  train scores=935.89 993.50 1024.18 1054.78 1088.11
+  val scores=888.79 627.04 533.42 340.11 -2.20
+best k=1
+Aurea_F036:
+  train scores=917.64 967.84 1003.93 1041.95 1078.28
+  val scores=876.18 849.71 705.37 445.07 44.28
+best k=1
+Benita_F008:
+  train scores=974.49 1002.13 1028.10 1060.21 1086.65
+  val scores=941.64 918.86 873.81 771.52 636.65
+best k=1
+Carla_F035:
+  train scores=952.94 996.54 1032.18 1060.10 1089.43
+  val scores=906.06 828.98 714.89 562.21 282.41
+best k=1
+CarolinaMagalhaes_F050:
+  train scores=931.30 966.60 1010.93 1035.47 1065.98
+  val scores=888.21 852.88 615.38 472.79 189.07
+best k=1
+CeCiliaBulcao_F021:
+  train scores=925.77 968.30 1006.28 1034.45 1068.78
+  val scores=889.06 861.19 759.54 597.83 130.74
+best k=1
+ClaudiaMoraes_F023:
+  train scores=964.83 1002.95 1036.23 1061.79 1088.99
+  val scores=931.84 915.40 882.99 767.02 591.39
+best k=1
+ConceicaoAbdulatif_F016:
+  train scores=920.98 977.76 1017.78 1050.71 1083.72
+  val scores=880.30 829.61 728.72 488.53 -60.66
+best k=1
+Cristiane_F007:
+  train scores=967.82 1007.87 1028.41 1054.70 1083.35
+  val scores=933.26 843.17 775.24 643.90 380.49
+best k=1
+Custodia_F033:
+  train scores=952.80 984.65 1012.00 1040.56 1075.27
+  val scores=916.24 881.27 826.87 681.27 344.67
+best k=1
+DanielRibeiro_M002:
+  train scores=898.35 944.30 981.61 1016.19 1053.54
+  val scores=858.27 725.21 576.33 378.44 -62.13
+best k=1
+DanielRientes_M040:
+  train scores=973.03 1007.72 1030.48 1057.25 1089.59
+  val scores=933.71 791.47 731.69 628.75 275.78
+best k=1
+DenizeRamos_F039:
+  train scores=925.54 972.93 1011.80 1047.23 1084.01
+  val scores=883.89 681.22 402.60 125.01 -99.20
+best k=1
+Diego_M026:
+  train scores=950.87 997.27 1030.50 1061.58 1091.14
+  val scores=908.98 907.63 810.43 667.88 328.89
+best k=1
+EdsonCabral_M023:
+  train scores=926.78 992.38 1014.15 1038.89 1069.60
+  val scores=879.96 317.95 248.29 -36.05 -245.88
+best k=1
+EduardoDuque_M039:
+  train scores=952.71 1008.07 1030.19 1054.30 1083.72
+  val scores=908.88 736.59 684.41 528.75 239.19
+best k=1
+EduardoPereira_M016:
+  train scores=950.07 1004.46 1030.35 1059.10 1091.87
+  val scores=909.82 880.63 799.90 659.78 312.05
+best k=1
+EduardoTardin_M022:
+  train scores=956.34 1003.49 1026.98 1050.28 1079.12
+  val scores=921.77 871.68 805.29 643.79 395.60
+best k=1
+Elson_M007:
+  train scores=982.59 1024.34 1042.34 1062.64 1088.34
+  val scores=951.49 830.43 763.77 627.02 364.69
+best k=1
+Emigoncalvez_M020:
+  train scores=962.50 997.96 1024.56 1056.93 1088.28
+  val scores=925.74 907.63 837.48 673.01 401.49
+best k=1
+FabioCorrea_M032:
+  train scores=969.68 1005.10 1036.53 1059.89 1086.89
+  val scores=931.62 889.04 756.15 523.60 322.70
+best k=1
+FatimaTurano_F020:
+  train scores=960.96 992.44 1026.86 1051.99 1080.48
+  val scores=924.93 907.48 850.12 756.97 551.69
+best k=1
+Flavia_F047:
+  train scores=961.58 1009.90 1033.08 1057.32 1086.25
+  val scores=922.72 890.58 843.23 636.08 399.80
+best k=1
+FranciscoChagas_M034:
+  train scores=927.77 993.76 1023.62 1047.29 1074.14
+  val scores=870.57 520.06 479.84 308.39 -69.95
+best k=1
+FranciscoEmilio_M044:
+  train scores=1005.06 1056.11 1079.47 1102.87 1128.25
+  val scores=972.59 977.45 903.91 801.49 584.49
+best k=2
+Gabriela_F034:
+  train scores=925.55 977.57 1012.55 1048.11 1078.19
+  val scores=884.61 874.99 759.63 668.50 506.99
+best k=1
+Geruza_F006:
+  train scores=912.35 971.48 1012.85 1051.97 1085.86
+  val scores=863.70 710.73 490.79 337.20 17.53
+best k=1
+Gilberto_M018:
+  train scores=991.65 1009.82 1031.01 1057.50 1090.74
+  val scores=961.81 936.05 876.11 761.57 448.24
+best k=1
+Helen_F043:
+  train scores=958.12 1004.08 1027.26 1052.23 1086.34
+  val scores=922.05 777.75 735.84 584.77 229.09
+best k=1
+HenriqueMafra_M046:
+  train scores=993.70 1019.17 1043.38 1069.22 1102.54
+  val scores=962.21 941.01 879.59 773.45 555.38
+best k=1
+Henrique_M030:
+  train scores=900.60 954.68 996.26 1033.39 1068.30
+  val scores=854.50 723.78 397.25 -30.26 -434.06
+best k=1
+Ieda_F014:
+  train scores=992.69 1017.69 1043.02 1073.09 1100.98
+  val scores=956.19 932.16 864.60 767.01 602.61
+best k=1
+IvanMariano_M008:
+  train scores=955.67 995.84 1030.11 1059.16 1093.78
+  val scores=913.19 856.22 766.94 574.64 202.68
+best k=1
+IvoneAmitrano_F000:
+  train scores=997.88 1020.71 1044.62 1061.35 1086.16
+  val scores=962.40 938.98 880.14 835.16 689.16
+best k=1
+JacksonBarbosa_M048:
+  train scores=949.89 994.61 1020.79 1053.50 1082.29
+  val scores=913.76 906.43 777.49 513.05 195.96
+best k=1
+Jailson_M003:
+  train scores=933.28 983.70 1018.23 1054.00 1091.10
+  val scores=895.26 875.56 806.95 451.12 18.56
+best k=1
+Jair_M021:
+  train scores=992.46 1012.46 1034.63 1062.19 1096.32
+  val scores=960.09 935.87 881.46 736.45 481.85
+best k=1
+JeanCarlos_M019:
+  train scores=952.86 980.45 1005.85 1037.75 1072.71
+  val scores=919.39 894.61 827.97 714.22 405.72
+best k=1
+Joel_M017:
+  train scores=1007.52 1029.45 1052.30 1078.41 1107.39
+  val scores=975.10 954.91 900.28 804.01 650.49
+best k=1
+JonatasPortugal_M031:
+  train scores=903.13 940.91 975.37 1003.49 1038.86
+  val scores=862.75 803.87 261.24 99.43 -225.22
+best k=1
+JonatasRibeiro_M041:
+  train scores=910.09 950.04 985.84 1024.74 1063.73
+  val scores=868.14 843.69 715.20 588.63 353.18
+best k=1
+Jonatas_M009:
+  train scores=936.11 978.25 1011.37 1044.91 1074.53
+  val scores=900.33 888.90 793.58 571.59 308.01
+best k=1
+JorgeHumberto_M042:
+  train scores=948.28 986.08 1022.15 1053.20 1087.22
+  val scores=911.72 885.01 815.95 614.48 259.20
+best k=1
+JoseIldo_M024:
+  train scores=972.85 1004.13 1034.14 1067.05 1098.79
+  val scores=937.48 913.14 838.78 709.08 460.68
+best k=1
+Juliana_F028:
+  train scores=967.74 1001.35 1028.75 1062.11 1095.66
+  val scores=894.84 841.54 785.34 654.55 417.05
+best k=1
+JulioFaustino_M005:
+  train scores=949.37 996.89 1028.01 1054.78 1085.72
+  val scores=908.58 868.84 710.90 559.13 197.45
+best k=1
+LeonaRodrigues_F022:
+  train scores=939.74 981.94 1015.57 1053.74 1085.70
+  val scores=898.97 887.41 817.95 681.41 401.81
+best k=1
+Lila_F017:
+  train scores=941.99 998.55 1035.95 1062.48 1094.99
+  val scores=896.09 653.20 36.16 -57.71 -221.88
+best k=1
+LuanaEsterLuna_F019:
+  train scores=951.95 1016.18 1044.37 1072.96 1102.14
+  val scores=909.62 924.00 861.45 759.74 539.85
+best k=2
+LucasSabino9_M033:
+  train scores=952.47 991.87 1023.20 1051.11 1081.29
+  val scores=914.06 886.82 784.95 670.14 428.78
+best k=1
+LuisGustavo_M049:
+  train scores=934.28 978.67 1006.26 1037.28 1073.68
+  val scores=898.44 885.61 773.78 493.68 146.67
+best k=1
+LuizCarlos_M029:
+  train scores=946.47 993.39 1022.91 1052.88 1086.44
+  val scores=901.44 687.30 640.02 519.99 228.56
+best k=1
+Madel_F002:
+  train scores=938.89 975.63 1006.77 1043.01 1080.29
+  val scores=896.77 866.43 779.58 569.20 181.90
+best k=1
+Marcio_M011:
+  train scores=978.39 1033.37 1056.09 1080.34 1105.41
+  val scores=938.93 751.94 670.64 606.68 373.88
+best k=1
+MarcosBittencourt_M006:
+  train scores=1001.26 1024.43 1044.45 1068.68 1098.16
+  val scores=970.13 950.29 905.57 820.95 629.12
+best k=1
+MarcosImbuzeiro_M036:
+  train scores=1000.16 1024.08 1047.44 1072.07 1094.55
+  val scores=962.66 946.56 896.62 768.00 639.79
+best k=1
+Marcosvictor_M037:
+  train scores=990.56 1028.68 1054.05 1077.45 1098.77
+  val scores=955.77 943.97 898.43 866.50 738.72
+best k=1
+Mariana_F024:
+  train scores=888.48 949.36 999.09 1037.58 1070.93
+  val scores=831.63 618.47 185.19 -196.14 -433.57
+best k=1
+MarioJr._M014:
+  train scores=942.40 977.26 1005.08 1037.63 1072.39
+  val scores=900.52 884.04 803.16 648.30 358.84
+best k=1
+Marta_F009:
+  train scores=940.60 1024.14 1045.15 1068.45 1093.33
+  val scores=856.93 378.35 265.64 233.75 -256.33
+best k=1
+Milena_F044:
+  train scores=925.66 972.13 1011.72 1043.26 1074.34
+  val scores=887.24 834.06 655.30 462.62 16.64
+best k=1
+MyrzaWanderley_F051:
+  train scores=953.26 985.80 1019.74 1049.94 1085.24
+  val scores=913.92 875.66 797.77 681.41 500.12
+best k=1
+NA_F005:
+  train scores=896.02 961.77 1011.80 1057.87 1094.36
+  val scores=851.38 832.18 672.14 266.00 -280.09
+best k=1
+Narhua_F029:
+  train scores=1005.96 1027.36 1049.59 1074.39 1107.59
+  val scores=972.90 948.68 890.91 768.20 547.51
+best k=1
+Nathalia_F037:
+  train scores=1023.28 1046.14 1067.54 1087.46 1111.76
+  val scores=986.99 965.42 892.75 848.75 716.04
+best k=1
+Oswaldo_M012:
+  train scores=970.53 999.82 1028.28 1059.50 1092.15
+  val scores=934.97 909.16 840.80 677.68 352.72
+best k=1
+Patricia_F001:
+  train scores=950.89 1005.29 1040.18 1075.19 1103.60
+  val scores=907.41 898.14 754.70 484.65 227.76
+best k=1
+Paula_F026:
+  train scores=965.57 1011.91 1045.45 1070.10 1097.52
+  val scores=925.07 791.15 639.00 479.40 273.98
+best k=1
+Paulinho_M000:
+  train scores=952.07 1013.53 1048.71 1073.87 1102.40
+  val scores=904.46 523.15 215.03 49.04 -60.68
+best k=1
+PauloCampos_M038:
+  train scores=953.54 999.45 1025.58 1055.57 1090.08
+  val scores=918.73 912.58 798.04 588.06 107.85
+best k=1
+PauloSiqueira_Papus_M015:
+  train scores=927.37 969.56 1008.68 1043.38 1076.30
+  val scores=889.92 851.55 761.75 382.35 61.13
+best k=1
+PedroHenrique_M045:
+  train scores=948.17 999.45 1023.91 1051.89 1081.47
+  val scores=910.71 695.85 584.70 353.31 174.32
+best k=1
+Pedro_M028:
+  train scores=944.56 1007.00 1032.18 1058.50 1091.13
+  val scores=896.99 650.35 570.23 466.52 229.19
+best k=1
+PriscilaTerra_F004:
+  train scores=885.80 946.07 990.80 1030.06 1064.75
+  val scores=836.83 824.90 558.33 334.96 -45.17
+best k=1
+Rafael_M013:
+  train scores=944.81 982.21 1010.99 1043.35 1075.36
+  val scores=902.78 846.66 756.77 615.43 458.34
+best k=1
+Regina_F013:
+  train scores=947.48 972.45 1003.24 1031.73 1063.56
+  val scores=909.50 879.20 834.31 775.21 592.87
+best k=1
+RenatoPeres_M010:
+  train scores=938.84 969.56 999.12 1027.02 1060.36
+  val scores=898.69 876.13 803.85 670.03 337.44
+best k=1
+Rodrigo_M043:
+  train scores=979.54 1004.06 1027.49 1055.12 1083.70
+  val scores=938.61 919.12 855.97 725.50 500.88
+best k=1
+Rogerio_M035:
+  train scores=966.02 996.17 1021.67 1048.74 1083.09
+  val scores=924.22 909.73 842.98 738.36 396.25
+best k=1
+Rose_F030:
+  train scores=963.55 1011.13 1039.98 1066.02 1100.92
+  val scores=923.51 900.24 836.66 700.00 321.36
+best k=1
+Roseoliveira_F048:
+  train scores=975.68 1000.14 1026.36 1053.17 1084.22
+  val scores=941.84 918.82 865.72 806.45 653.74
+best k=1
+SHEILA_F031:
+  train scores=936.23 981.80 1016.91 1051.30 1084.60
+  val scores=895.84 880.63 766.91 573.04 360.24
+best k=1
+SallesAbi-Abib_M047:
+  train scores=942.14 991.43 1028.19 1059.26 1092.69
+  val scores=905.21 780.48 655.94 453.87 -128.07
+best k=1
+SandraCipriano_F015:
+  train scores=964.48 997.48 1025.23 1052.86 1084.43
+  val scores=920.50 845.42 569.10 456.20 47.51
+best k=1
+SandraRocha_F011:
+  train scores=955.66 1003.59 1040.64 1071.30 1102.92
+  val scores=919.79 911.02 803.89 531.23 98.64
+best k=1
+SilvanaFerreira_F012:
+  train scores=968.45 995.40 1017.86 1048.45 1080.90
+  val scores=931.94 904.49 842.82 731.81 531.29
+best k=1
+TatianaRuback_F038:
+  train scores=968.66 1007.58 1033.92 1060.32 1091.03
+  val scores=928.71 870.95 780.58 637.16 406.11
+best k=1
+TerezaSpedo_F041:
+  train scores=954.17 989.32 1018.39 1054.74 1095.60
+  val scores=909.19 868.14 790.79 564.31 96.55
+best k=1
+Tulio_M027:
+  train scores=954.76 1007.28 1036.09 1065.12 1094.28
+  val scores=909.91 897.91 846.86 692.18 464.87
+best k=1
+Walace_M004:
+  train scores=938.46 971.80 1000.38 1034.57 1071.84
+  val scores=901.35 877.61 793.21 634.93 289.96
+best k=1
+camillaWagner_F025:
+  train scores=924.81 970.95 1008.64 1046.64 1082.78
+  val scores=884.41 862.91 718.20 395.21 37.75
+best k=1
+jorge_M025:
+  train scores=949.88 981.97 1012.90 1045.74 1080.43
+  val scores=915.10 889.87 787.07 653.27 478.38
+best k=1
